@@ -9,7 +9,7 @@ I work on Australia's **Victorian GNSS CORS network** (DTP / GPSnet) — keeping
 ## 🔭 What I do
 
 - **GNSS / CORS**: network operations, monitoring, and integrity for GPSnet — the Victorian Continuously Operating Reference Station network.
-- **Spatial & survey tech**: ublox receivers, sensors, ISR at CNG Keilor Park, data pipelines, and tools for surveyors.
+- **Spatial & survey tech**: receivers, sensors, Cisco ISR, data pipelines, and tools for surveyors.
 - **Self-hosted infrastructure**: Proxmox clusters, Docker Compose, Nginx Proxy Manager, Snipe-IT asset management, Zabbix monitoring — a home lab that runs a small business.
 - **AI & automation**: MCP servers, agent workflows, CI/CD pipelines, and building AI-assisted tools for real-world problems.
 
